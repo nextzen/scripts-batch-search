@@ -1,5 +1,7 @@
 # Batch geocoder
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/pelias/scripts-batch-search.svg)](https://greenkeeper.io/)
+
 This is a basic utility for geocoding CSV files that have address data included. It will parse the file and add coordinate information, which is able to be customized with a variety of input parameters (discussed below). This tool is powered by Pelias, an experimental, community-focused geocoder from Mapzen, which is available for both commercial and non-commercial purposes. The [source code](https://github.com/pelias/pelias) is open to view and change, and contributions are welcomed.
 
 In order to use this tool, you’ll need some knowledge about command line (enough to be able to install node modules and run a script). _New to this?_ There are some [great tutorials available online](https://www.learnenough.com/command-line-tutorial).
